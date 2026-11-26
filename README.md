@@ -14,3 +14,5 @@
 
 ## 소프트웨어 테스트
 -pytest
+-code netric
+-lizard
